@@ -54,5 +54,5 @@ ssh:x:114:
 lpadmin:x:115:Lin-Buo-Ren
 sambashare:x:116:Lin-Buo-Ren
 Lin-Buo-Ren:x:1000:
-web-admin:x:1001:
+web-admin:x:1001:Lin-Buo-Ren
 ssl-cert:x:117:
