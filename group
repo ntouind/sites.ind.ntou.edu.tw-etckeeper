@@ -58,3 +58,4 @@ web-admin:x:1001:Lin-Buo-Ren
 ssl-cert:x:117:
 ftp:x:118:
 other-sites-readable:x:1002:www-data
+sftponly:x:1003:
