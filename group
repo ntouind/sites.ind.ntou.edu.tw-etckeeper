@@ -56,7 +56,6 @@ sambashare:x:116:Lin-Buo-Ren
 Lin-Buo-Ren:x:1000:
 web-admin:x:1001:Lin-Buo-Ren
 ssl-cert:x:117:
-ftp:x:118:
 other-sites-readable:x:1002:www-data,Lin-Buo-Ren
 sftponly:x:1003:
 site-admin:x:1004:Lin-Buo-Ren
