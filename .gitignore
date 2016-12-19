@@ -70,3 +70,5 @@ ssh/*key
 # 參閱 https://certbot.eff.org/docs/using.html#where-are-my-certificates
 letsencrypt/
 
+# Ignore SSL/TLS Private keys
+ssl/private/
