@@ -63,6 +63,9 @@ gshadow-
 subuid-
 subgid-
 
+# 由於 passwd 資料庫包含使用者個人資料我們不能用公開的方式控制版本
+passwd
+
 # Ignore SSH Private Keys
 ssh/*key
 
