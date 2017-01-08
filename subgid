@@ -2,3 +2,4 @@ lxd:100000:65536
 root:100000:65536
 lin-buo-ren:165536:65536
 ios2018.ntou.edu.tw:231072:65536
+template-user:296608:65536
