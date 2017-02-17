@@ -18,7 +18,7 @@ voice:x:22:
 cdrom:x:24:Lin-Buo-Ren
 floppy:x:25:
 tape:x:26:
-sudo:x:27:Lin-Buo-Ren
+sudo:x:27:Lin-Buo-Ren,ntou-li-staff
 audio:x:29:
 dip:x:30:Lin-Buo-Ren
 www-data:x:33:
@@ -61,3 +61,4 @@ sftponly:x:1003:
 site-admin:x:1004:Lin-Buo-Ren
 template-user:x:1005:
 site-hosting-users:x:1006:
+ntou-li-staff:x:1007:
