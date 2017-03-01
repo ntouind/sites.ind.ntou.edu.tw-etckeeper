@@ -47,7 +47,7 @@ crontab:x:107:
 syslog:x:108:
 netdev:x:109:
 messagebus:x:110:
-lxd:x:111:Lin-Buo-Ren
+lxd:x:111:Lin-Buo-Ren,ntou-li-staff
 uuidd:x:112:
 mlocate:x:113:
 ssh:x:114:
