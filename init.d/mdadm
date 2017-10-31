@@ -61,13 +61,6 @@ case "${1:-}" in
       log_end_msg $?
       set -e
     fi
-    if [ "$(echo $RUNDIR/md[0-9]*.pid)" != "$RUNDIR/md[0-9]*.pid" ]; then
-      log_daemon_msg "Restarting MD external metadata monitor" "mdmon --takeover --all"
-      set +e
-      $MDMON --takeover --all
-      log_end_msg $?
-      set -e
-    fi
     ;;
   stop)
     if [ -f $PIDFILE ] ; then
